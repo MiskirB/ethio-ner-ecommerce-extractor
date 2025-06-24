@@ -192,3 +192,13 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+__pycache__/
+*.pyc
+ethio_session*
+.env
+.env.*
+data/*
+models/*
+outputs/*
+*.ipynb_checkpoints

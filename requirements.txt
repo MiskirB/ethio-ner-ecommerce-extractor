@@ -1,0 +1,11 @@
+telethon
+pandas
+python-dotenv
+nltk
+tqdm
+scikit-learn
+transformers
+datasets
+seqeval
+shap
+lime
