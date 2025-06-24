@@ -198,7 +198,7 @@ __pycache__/
 ethio_session*
 .env
 .env.*
-data/*
+
 models/*
 outputs/*
 *.ipynb_checkpoints
